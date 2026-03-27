@@ -1,0 +1,33 @@
+{
+    "name": "carbon-canary",
+    "displayName": "Carbon Theme VSCode",
+    "description": "Carbon Theme VSCode",
+    "version": "1.2.7",
+    "engines": {
+        "vscode": "^1.105.0"
+    },
+    "publisher": "phantriviethoang",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/phantriviethoang/wip"
+    },
+    "icon": "images/carbon-canary.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Carbon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/carbon-canary.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "carbon",
+        "dark"
+    ],
+    "license": "MIT"
+}
