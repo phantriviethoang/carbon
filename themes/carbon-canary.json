@@ -43,7 +43,7 @@
         "editorCursor.foreground": "#bbbbbb",
         "editorGroupHeader.tabsBackground": "#161e28",
         "editorGutter.addedBackground": "#51966b",
-        "editorGutter.deletedBackground": "#ff4262",
+        "editorGutter.deletedBackground": "#757575",
         "editorGutter.foldingControlForeground": "#a3a3a3",
         "editorGutter.modifiedBackground": "#214760",
         "editorWidget.background": "#161e28",
